@@ -1,0 +1,350 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+* {
+    font-family: "Inter", sans-serif !important;
+}
+
+.container {
+    padding: 0px 90px;
+}
+
+.figma {
+    display: flex;
+    margin-top: 40px;
+
+}
+
+.hero-seation {
+    width: 20%;
+    margin-right: 50px;
+    text-align: center;
+}
+
+.hero-seation img {
+    border-radius: 20px;
+}
+
+.figma-icon {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0px;
+}
+
+.icon-1:hover {
+    cursor: pointer;
+    color: #ff5588;
+    scale: 1.6;
+}
+
+.button {
+    width: 70%;
+    padding: 10px 50px;
+    border: 1px solid #333333;
+    background: none;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-color: #ff5588;
+    color: #ffff;
+    cursor: pointer;
+    scale: 1.1;
+    border: none;
+}
+
+.hello {
+    color: #ff5588;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.valu h1 {
+    font-weight: 400;
+    font-size: 45px;
+    color: #181818;
+}
+
+.valu p {
+    font-weight: 400;
+    font-size: 15px;
+    color: #333333;
+}
+
+.Experience {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    text-align: center;
+}
+
+.card h1 {
+    font-weight: 400;
+    font-size: 44;
+    color: #ff5588;
+}
+
+.card span {
+    font-weight: 400;
+    font-size: 19px;
+    color: #333333;
+}
+
+.align {
+    margin: 100px 0px;
+    margin-top: 100px;
+}
+
+.About span {
+    color: #ff5588;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.About h1 {
+    font-weight: 400;
+    font-size: 30px;
+    color: #181818;
+}
+
+.About p {
+    font-weight: 400;
+    font-size: 15px;
+    color: #333333;
+}
+
+.arjit {
+    margin-top: 100px;
+}
+
+.medium span {
+    font-weight: 400;
+    font-size: 20px;
+    color: #ff5588;
+}
+
+.medium h1 {
+    font-weight: 400;
+    font-size: 35px;
+    color: #181818;
+}
+
+.medium p {
+    font-weight: 400;
+    font-size: 11px;
+    color: #333333;
+}
+
+.medium h2 {
+    font-weight: 400;
+    font-size: 19px;
+    color: #181818;
+}
+
+.btn {
+    margin-top: 150px;
+}
+
+.large p {
+    font-weight: 400;
+    font-size: 20px;
+    color: #ff5588;
+}
+
+.large h1 {
+    font-weight: 400;
+    font-size: 30;
+    color: #181818;
+}
+
+.top button {
+    margin: 0px 20px;
+    background: none;
+    padding: 20px 50px;
+    border: 1px solid #181818;
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #181818;
+}
+
+.top button span {
+    font-weight: 400;
+    font-size: 11px;
+    color: #333333;
+}
+
+.tamma {
+    margin-top: 150px;
+}
+
+.bling {
+    justify-content: space-between;
+    margin: 0px 40px;
+    background: #333333;
+    background: none;
+}
+
+.red {
+    margin-top: 150px;
+}
+
+
+.balu span {
+    font-weight: 400;
+    font-size: 20px;
+    color: #ff5588;
+}
+
+.balu h1 {
+    font-weight: 400;
+    font-size: 35px;
+    color: #181818;
+}
+
+.green {
+    display: flex;
+    padding-left: 60px;
+}
+
+.green img {
+    margin-top: 50px;
+    height: 80px;
+}
+
+
+.pink h3 {
+    font-weight: 600;
+    font-size: 20px;
+    color: #181818;
+    margin: 70px 30px 0px;
+
+}
+
+.pink h5 {
+    font-weight: 400;
+    font-size: 15px;
+    color: #181818;
+    margin: 10px 30px 60px;
+}
+
+
+.orange {
+    margin-bottom: 60px;
+    padding-left: 60px;
+}
+
+.balu p {
+    font-weight: 400;
+    font-size: 20px;
+    color: #181818;
+}
+
+.yellow {
+    border: 1px solid #181818;
+    border-radius: 20px;
+    width: 80%;
+    height: 80%;
+
+}
+
+
+.khan span {
+    font-weight: 400;
+    font-size: 20px;
+    color: #FF5588;
+}
+
+.khan h2 {
+    font-weight: 400;
+    font-size: 35px;
+    color: #181818;
+}
+
+.seaction-2 {
+    margin-top: 150px;
+}
+
+.seaction-3 span {
+    font-weight: 400;
+    font-size: 20px;
+    color: #FF5588;
+}
+
+.seaction-3 h1 {
+    font-weight: 400;
+    font-size: 35;
+    color: #181818;
+}
+
+.one {
+    margin-top: 10px;
+}
+
+.black span {
+    font-weight: 400;
+    font-size: 19px;
+    color: #FF5588;
+}
+
+.black h1 {
+    font-weight: 400;
+    font-size: 35px;
+    color: #181818;
+}
+
+.outline {
+    margin-top: 150px;
+}
+
+.svg {
+    justify-content: space-between;
+    margin: 0px 40px;
+    margin-top: 50px;
+}
+
+.fereoz h3{
+    margin-top: 100px;
+    font-weight: 400;
+    font-size: 19px;
+    color: #FF5588;
+}
+
+.fereoz h3 {
+    margin-bottom: 70px;
+}
+
+/* form */
+
+.form label {
+    font-weight: 400;
+    font-size: 16px;
+    color: #333333;
+}
+
+.form-input{
+    border: none;
+    border-bottom: 1px solid #999;
+    width: 50%;
+    margin:  20px 0px;
+}
+
+.form-input:focus{
+    outline: none;
+}
+
+.form button {
+    padding: 10px 50px;
+    border: 1px solid #333333;
+    background: none;
+    border-radius: 10px;
+}
+
+.form button:hover {
+    background-color: #ff5588;
+    color: #ffff;
+    cursor: pointer;
+    scale: 1.1;
+    border: none;
+}
